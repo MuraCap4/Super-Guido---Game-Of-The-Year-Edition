@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5478993b332ee574693f6c16e835d75a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vidasTxt: {fileID: 8091201087314484038, guid: 198d27f7393e1c84689b9aac2ed590be, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
